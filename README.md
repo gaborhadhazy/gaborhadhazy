@@ -71,5 +71,5 @@ Here are some ideas to get you started:
   
 ## Learning
 - LLVM IR
-- Compiléer Development
+- Compiler Development
 - Machine learning and related mathematics
